@@ -1,0 +1,25 @@
+{
+    "name": "ESPWebLibrary",
+    "version": "1.0.0",
+    "description": "A lightweight library for ESP8266 web server and WiFi management.",
+    "keywords": [
+        "esp8266",
+        "webserver",
+        "wifi",
+        "iot"
+    ],
+    "authors": [
+        {
+            "name": "Rahim Daud",
+            "email": "rahimdaud246@gmail.com",
+            "maintainer": true
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/piccolojnr/ESPWebLibrary"
+    },
+    "frameworks": "arduino",
+    "platforms": "espressif8266",
+    "license": "MIT"
+}
